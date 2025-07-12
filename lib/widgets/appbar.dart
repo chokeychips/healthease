@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'notification.dart';
+import '../models/notification.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final Future<DocumentSnapshot> Function() getUserBio;

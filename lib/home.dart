@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'firebase_options.dart';
-import 'custom_navbar.dart'; // import navbar
-import 'search.dart';
-import 'article.dart';
-import 'profile.dart';
+import 'services/firebase_options.dart';
+import 'widgets/custom_navbar.dart'; // import navbar
+import 'pages/search.dart';
+import 'pages/article.dart';
+import 'pages/profile.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'login_page.dart'; // halaman login
+import 'auth/login_page.dart'; // halaman login
 import 'package:firebase_auth/firebase_auth.dart';
-import 'appoinment.dart';
-import 'appbar.dart'; // import custom appbar
+import 'models/appoinment.dart';
+import 'widgets/appbar.dart'; // import custom appbar
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

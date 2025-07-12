@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'firebase_options.dart';
-import 'custom_navbar.dart'; // import navbar buatanmu
-import 'home.dart';
+import '../firebase_options.dart';
+import '../custom_navbar.dart'; // import navbar buatanmu
+import '../home.dart';
 import 'article.dart';
 import 'profile.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
