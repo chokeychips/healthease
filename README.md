@@ -1,4 +1,3 @@
-
 # 🩺 Healthease - Flutter + Firebase App
 
 Healthease is a modern mobile app built with Flutter and Firebase. It offers a smooth healthcare experience with features like doctor appointment booking, patient management, and article sharing — all in one seamless UI.
@@ -36,7 +35,7 @@ Healthease is a modern mobile app built with Flutter and Firebase. It offers a s
 ```bash
 git clone https://github.com/chokeychips/healthease.git
 cd healthease
-````
+```
 
 2. Get dependencies:
 
@@ -46,8 +45,8 @@ flutter pub get
 
 3. Add Firebase configuration:
 
-   * Download `google-services.json` from Firebase Console
-   * Place it inside `android/app/`
+   - Download `google-services.json` from Firebase Console
+   - Place it inside `android/app/`
 
 4. Run the app:
 
@@ -104,4 +103,8 @@ This project is private and intended for personal/academic use only. All rights 
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
 
+| Login Page                            | Home Page                           |
+| ------------------------------------- | ----------------------------------- |
+| ![Login](assets/screenshot/login.png) | ![Home](assets/screenshot/home.png) |
