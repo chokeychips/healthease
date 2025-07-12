@@ -103,8 +103,6 @@ This project is private and intended for personal/academic use only. All rights 
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 | Login Page                        | Home Page                    |
 | --------------------------------- | ---------------------------- |
 | ![Login](screenshot/register.png) | ![Home](screenshot/home.png) |
