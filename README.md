@@ -15,6 +15,7 @@ Healthease is a modern mobile app built with Flutter and Firebase. It offers a s
 - 🧾 Receipt view after booking
 - 🔔 Notification page for appointments
 - 🗂️ Clean folder structure and modern UI
+- 📄 CRUD Admin
 
 ---
 
@@ -23,7 +24,7 @@ Healthease is a modern mobile app built with Flutter and Firebase. It offers a s
 - **Flutter** 3.x
 - **Dart**
 - **Firebase** (Auth, Firestore, Storage)
-- **Cloudinary** (for image uploads)
+- **IMGBB** (for image uploads)
 - **Figma** (for UI reference)
 
 ---
