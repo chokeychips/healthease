@@ -105,6 +105,6 @@ This project is private and intended for personal/academic use only. All rights 
 
 ## 📸 Screenshots
 
-| Login Page                            | Home Page                           |
-| ------------------------------------- | ----------------------------------- |
-| ![Login](assets/screenshot/login.png) | ![Home](assets/screenshot/home.png) |
+| Login Page                     | Home Page                    |
+| ------------------------------ | ---------------------------- |
+| ![Login](screenshot/login.png) | ![Home](screenshot/home.png) |
